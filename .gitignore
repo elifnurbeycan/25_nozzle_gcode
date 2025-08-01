@@ -1,0 +1,18 @@
+# Sanal ortam
+venv/
+
+# PyInstaller build dosyaları
+__pycache__/
+build/
+dist/
+*.spec
+
+# G-code ve geçici dosyalar
+*.gcode
+*.stl
+output/
+input/
+
+# IDE dosyaları
+*.vscode/
+*.idea/
